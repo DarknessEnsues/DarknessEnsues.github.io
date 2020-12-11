@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+    color: grey;
+}
+
+.header {
+    margin-top: -50;
+}
+
+.headerlogo {
+    margin-top: -60;
+}
+
+/*#region H's*/
+h1 {
+    text-align: center;
+    color: white;
+    margin-top: -150;
+}
+
+h3 {
+    text-align: right;
+    color: white;
+    margin-top: -50;
+    word-spacing: 20;
+    padding-right: 50;
+}
+
+h2 {
+    text-align: left;
+    color: white;
+    margin-top: -50;
+    margin-left: 100;
+}
+
+h4 {
+    text-align: center;
+    color: white;
+    font-size: 30;
+}
+h5 {
+    text-align: center;
+    color: white;
+}
+
+
+/*#endregion RegionName*/
+.topnav {
+    position: sticky;
+    height:60;
+    padding-right: 40;
+    margin-top: -10;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.topnavlogo {
+    margin-left: 20;
+}
+
+.csbg {
+    margin-top: -100;
+    width: 100%;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.centered2 {
+    position: absolute;
+    margin-top: 10;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+footer {
+    position: sticky;
+    height: 60;
+    width: 70%;
+    background-color: white;
+
+}
+
+h6 {
+    margin-top: -20;
+    text-align: right;
+    margin-right: 325;
+}
+
+.icons{
+    text-align: center;
+}
+
+
+.LyraxH {
+    margin-left: 400;
+}
+
+.LyraxHtxt {
+    margin-left: -1300;
+}
